@@ -1684,6 +1684,7 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string absolute_magnitude_title
+string api_key
 string app_name
 string appbar_scrolling_view_behavior
 string astronomica_unit_explanation

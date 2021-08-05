@@ -89,13 +89,13 @@ public class FragmentMainBindingImpl extends FragmentMainBinding  {
     protected boolean onFieldChange(int localFieldId, Object object, int fieldId) {
         switch (localFieldId) {
             case 0 :
-                return onChangeViewModelAsteroids((androidx.lifecycle.LiveData<java.util.List<com.udacity.asteroidradar.Asteroid>>) object, fieldId);
+                return onChangeViewModelAsteroidsForFragment((androidx.lifecycle.LiveData<java.util.List<com.udacity.asteroidradar.Asteroid>>) object, fieldId);
             case 1 :
                 return onChangeViewModelDailyPicture((androidx.lifecycle.LiveData<com.udacity.asteroidradar.PictureOfDay>) object, fieldId);
         }
         return false;
     }
-    private boolean onChangeViewModelAsteroids(androidx.lifecycle.LiveData<java.util.List<com.udacity.asteroidradar.Asteroid>> ViewModelAsteroids, int fieldId) {
+    private boolean onChangeViewModelAsteroidsForFragment(androidx.lifecycle.LiveData<java.util.List<com.udacity.asteroidradar.Asteroid>> ViewModelAsteroidsForFragment, int fieldId) {
         if (fieldId == BR._all) {
             synchronized(this) {
                     mDirtyFlags |= 0x1L;
@@ -121,9 +121,9 @@ public class FragmentMainBindingImpl extends FragmentMainBinding  {
             dirtyFlags = mDirtyFlags;
             mDirtyFlags = 0;
         }
-        androidx.lifecycle.LiveData<java.util.List<com.udacity.asteroidradar.Asteroid>> viewModelAsteroids = null;
-        java.util.List<com.udacity.asteroidradar.Asteroid> viewModelAsteroidsGetValue = null;
+        java.util.List<com.udacity.asteroidradar.Asteroid> viewModelAsteroidsForFragmentGetValue = null;
         com.udacity.asteroidradar.main.MainViewModel viewModel = mViewModel;
+        androidx.lifecycle.LiveData<java.util.List<com.udacity.asteroidradar.Asteroid>> viewModelAsteroidsForFragment = null;
         androidx.lifecycle.LiveData<com.udacity.asteroidradar.PictureOfDay> viewModelDailyPicture = null;
         com.udacity.asteroidradar.PictureOfDay viewModelDailyPictureGetValue = null;
 
@@ -133,15 +133,15 @@ public class FragmentMainBindingImpl extends FragmentMainBinding  {
             if ((dirtyFlags & 0xdL) != 0) {
 
                     if (viewModel != null) {
-                        // read viewModel.asteroids
-                        viewModelAsteroids = viewModel.getAsteroids();
+                        // read viewModel.asteroidsForFragment
+                        viewModelAsteroidsForFragment = viewModel.getAsteroidsForFragment();
                     }
-                    updateLiveDataRegistration(0, viewModelAsteroids);
+                    updateLiveDataRegistration(0, viewModelAsteroidsForFragment);
 
 
-                    if (viewModelAsteroids != null) {
-                        // read viewModel.asteroids.getValue()
-                        viewModelAsteroidsGetValue = viewModelAsteroids.getValue();
+                    if (viewModelAsteroidsForFragment != null) {
+                        // read viewModel.asteroidsForFragment.getValue()
+                        viewModelAsteroidsForFragmentGetValue = viewModelAsteroidsForFragment.getValue();
                     }
             }
             if ((dirtyFlags & 0xeL) != 0) {
@@ -168,7 +168,7 @@ public class FragmentMainBindingImpl extends FragmentMainBinding  {
         if ((dirtyFlags & 0xdL) != 0) {
             // api target 1
 
-            com.udacity.asteroidradar.BindingAdaptersKt.bindRecyclerView(this.asteroidRecycler, viewModelAsteroidsGetValue);
+            com.udacity.asteroidradar.BindingAdaptersKt.bindRecyclerView(this.asteroidRecycler, viewModelAsteroidsForFragmentGetValue);
         }
     }
     // Listener Stub Implementations
@@ -176,7 +176,7 @@ public class FragmentMainBindingImpl extends FragmentMainBinding  {
     // dirty flag
     private  long mDirtyFlags = 0xffffffffffffffffL;
     /* flag mapping
-        flag 0 (0x1L): viewModel.asteroids
+        flag 0 (0x1L): viewModel.asteroidsForFragment
         flag 1 (0x2L): viewModel.dailyPicture
         flag 2 (0x3L): viewModel
         flag 3 (0x4L): null

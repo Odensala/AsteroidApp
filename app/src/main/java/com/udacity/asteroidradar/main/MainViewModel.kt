@@ -29,7 +29,7 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
 
     private val database = getDatabase(application)
     private val AsteroidRepository = AsteroidRepository(database)
-    private val asteroidsForFragment = AsteroidRepository.asteroids
+    val asteroidsForFragment = AsteroidRepository.asteroids
 
     init {
         getPictureOfDayResponse()

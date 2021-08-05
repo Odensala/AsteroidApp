@@ -1,0 +1,14 @@
+C:\Users\paulr\Documents\programming\android\nd940-android-kotlin-c2-starter-master\starter\app\src\main\java\com\udacity\asteroidradar\api\AsteroidApi.kt
+C:\Users\paulr\Documents\programming\android\nd940-android-kotlin-c2-starter-master\starter\app\src\main\java\com\udacity\asteroidradar\api\NetworkUtils.kt
+C:\Users\paulr\Documents\programming\android\nd940-android-kotlin-c2-starter-master\starter\app\src\main\java\com\udacity\asteroidradar\Asteroid.kt
+C:\Users\paulr\Documents\programming\android\nd940-android-kotlin-c2-starter-master\starter\app\src\main\java\com\udacity\asteroidradar\AsteroidAdapter.kt
+C:\Users\paulr\Documents\programming\android\nd940-android-kotlin-c2-starter-master\starter\app\src\main\java\com\udacity\asteroidradar\BindingAdapters.kt
+C:\Users\paulr\Documents\programming\android\nd940-android-kotlin-c2-starter-master\starter\app\src\main\java\com\udacity\asteroidradar\Constants.kt
+C:\Users\paulr\Documents\programming\android\nd940-android-kotlin-c2-starter-master\starter\app\src\main\java\com\udacity\asteroidradar\detail\DetailFragment.kt
+C:\Users\paulr\Documents\programming\android\nd940-android-kotlin-c2-starter-master\starter\app\src\main\java\com\udacity\asteroidradar\main\MainFragment.kt
+C:\Users\paulr\Documents\programming\android\nd940-android-kotlin-c2-starter-master\starter\app\src\main\java\com\udacity\asteroidradar\main\MainViewModel.kt
+C:\Users\paulr\Documents\programming\android\nd940-android-kotlin-c2-starter-master\starter\app\src\main\java\com\udacity\asteroidradar\MainActivity.kt
+C:\Users\paulr\Documents\programming\android\nd940-android-kotlin-c2-starter-master\starter\app\src\main\java\com\udacity\asteroidradar\PictureOfDay.kt
+C:\Users\paulr\Documents\programming\android\nd940-android-kotlin-c2-starter-master\starter\app\src\main\java\com\udacity\asteroidradar\repository\AsteroidRepository.kt
+C:\Users\paulr\Documents\programming\android\nd940-android-kotlin-c2-starter-master\starter\app\src\main\java\database\DatabaseEntities.kt
+C:\Users\paulr\Documents\programming\android\nd940-android-kotlin-c2-starter-master\starter\app\src\main\java\database\Room.kt

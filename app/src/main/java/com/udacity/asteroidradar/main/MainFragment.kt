@@ -46,7 +46,7 @@ class MainFragment : Fragment() {
         asteroid_recycler.setHasFixedSize(true)
 
         // Observes asteroid
-        viewModel.asteroids.observe(viewLifecycleOwner, Observer {
+        viewModel.asteroidsForFragment.observe(viewLifecycleOwner, Observer {
 
         })
     }

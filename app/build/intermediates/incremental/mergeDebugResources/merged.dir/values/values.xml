@@ -765,6 +765,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="absolute_magnitude_title">Absolute magnitude</string>
+    <string name="api_key" translatable="false">"x9W0xwFSqRbAyTwoyssKiu5VHY67no7SwBAOppxW"</string>
     <string name="app_name">Asteroid Radar</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="astronomica_unit_explanation">The astronomical unit (au) is a unit of length, roughly the distance from Earth to the Sun and equal to about 150 million kilometres (93 million miles)</string>
