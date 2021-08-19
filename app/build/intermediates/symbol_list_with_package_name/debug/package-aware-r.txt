@@ -1491,9 +1491,9 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
-id show_all_menu
-id show_buy_menu
-id show_rent_menu
+id show_saved_menu
+id show_today_menu
+id show_week_menu
 id sin
 id smallLabel
 id snackbar_action

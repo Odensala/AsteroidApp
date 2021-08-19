@@ -5,8 +5,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.Transformations
 import com.udacity.asteroidradar.Asteroid
 import com.udacity.asteroidradar.Constants
-import com.udacity.asteroidradar.api.AsteroidApi
-import com.udacity.asteroidradar.api.parseAsteroidsJsonResult
+import com.udacity.asteroidradar.api.*
 import database.AsteroidDatabase
 import database.asDatabaseModel
 import database.asDomainModel
@@ -19,22 +18,57 @@ import org.json.JSONObject
  */
 class AsteroidRepository(private val database: AsteroidDatabase) {
 
-    // As long as we call this one we can use it in a recyclerView
+
+    // LiveData for asteroids displayed in RecyclerView
     val asteroids: LiveData<List<Asteroid>> =
-        Transformations.map(database.asteroidDao.getAsteroids()) {
+        Transformations.map(database.asteroidDao.getAllAsteroids()) {
             it.asDomainModel()
         }
 
     suspend fun refreshAsteroids() {
         try {
             withContext(Dispatchers.IO) {
-                val asteroids = AsteroidApi.retrofitService.getAsteroids(Constants.API_KEY)
-                var jsonParsedAsteroids = parseAsteroidsJsonResult(JSONObject(asteroids))
+                val asteroidsRefresh =
+                    AsteroidApi.retrofitService.getAsteroids(
+                        getStartDateFormatted(),
+                        getEndDateFormatted(),
+                        Constants.API_KEY
+                    )
+                var jsonParsedAsteroids = parseAsteroidsJsonResult(JSONObject(asteroidsRefresh))
+
                 database.asteroidDao.insertAll(*jsonParsedAsteroids.asDatabaseModel())
             }
         } catch (e: Exception) {
             Log.e("repo", "refreshAsteroids")
         }
+    }
 
+    /**
+     * Selects appropriate filter according to menu choice
+     */
+    fun getAsteroidSelection(filter: AsteroidFilter): LiveData<List<Asteroid>> {
+        return when (filter) {
+            (AsteroidFilter.SHOW_TODAY) -> Transformations.map(
+                database.asteroidDao.getTodayAsteroids(
+                    getStartDateFormatted()
+                )
+            ) {
+                it.asDomainModel()
+            }
+            (AsteroidFilter.SHOW_WEEK) -> Transformations.map(
+                database.asteroidDao.getWeekAsteroids(
+                    getStartDateFormatted(),
+                    getEndDateFormatted()
+                )
+            ) {
+                it.asDomainModel()
+            }
+            else -> Transformations.map(database.asteroidDao.getAllAsteroids()) {
+                it.asDomainModel()
+            }
+        }
     }
 }
+
+
+

@@ -11,6 +11,11 @@ import retrofit2.converter.scalars.ScalarsConverterFactory
 import retrofit2.http.GET
 import retrofit2.http.Query
 
+/**
+ * Enum full of constants to match the query values our web service expects
+ */
+enum class AsteroidFilter(val value: String){SHOW_WEEK("week"), SHOW_TODAY("today"), SHOW_SAVE("saved")}
+
 // Moshi object
 private val moshi = Moshi.Builder()
     .add(KotlinJsonAdapterFactory())
@@ -39,7 +44,12 @@ interface AsteroidApiService {
      * @GET request for asteroid list
      */
     @GET("neo/rest/v1/feed")
-    suspend fun getAsteroids(@Query("api_key") apiKey: String): String
+    suspend fun getAsteroids(
+        @Query("start_date") startDate: String,
+        @Query("end_date") endDate: String,
+        @Query("api_key") apiKey: String
+
+    ): String
 }
 
 interface PictureOfDayApiService {

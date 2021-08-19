@@ -11,7 +11,8 @@ import kotlinx.android.synthetic.main.asteroid_item.view.*
 /**
  * @param asteroidList pass in list generated with items
  */
-class AsteroidAdapter : ListAdapter<Asteroid, AsteroidAdapter.AsteroidViewHolder>(DiffCallback()) {
+class AsteroidAdapter(private val onClickListener: OnClickListener) :
+    ListAdapter<Asteroid, AsteroidAdapter.AsteroidViewHolder>(DiffCallback()) {
 
     /**
      * ViewHolder class, constructor creates View object
@@ -36,17 +37,20 @@ class AsteroidAdapter : ListAdapter<Asteroid, AsteroidAdapter.AsteroidViewHolder
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): AsteroidViewHolder {
         // LayoutInflater class transforms xml files into view objects
         // This code is always written the same
-        val binding = AsteroidItemBinding.inflate(LayoutInflater.from(parent.context), parent, false)
+        val binding =
+            AsteroidItemBinding.inflate(LayoutInflater.from(parent.context), parent, false)
         return AsteroidViewHolder(binding)
     }
 
     /**
      * This binds existing views with new data, this function is called multiple times
      * This is a required method RecyclerView.Adapter class
-     * this function will be called multiple times
      */
     override fun onBindViewHolder(holder: AsteroidViewHolder, position: Int) {
         val currentItem = getItem(position)
+        holder.itemView.setOnClickListener {
+            onClickListener.onClick(currentItem)
+        }
         holder.bind(currentItem)
     }
 
@@ -65,4 +69,9 @@ class AsteroidAdapter : ListAdapter<Asteroid, AsteroidAdapter.AsteroidViewHolder
             return oldItem == newItem
         }
     }
+
+    class OnClickListener(val onClickListener: (asteroid: Asteroid) -> Unit) {
+        fun onClick(asteroid: Asteroid) = onClickListener(asteroid)
+    }
 }
+

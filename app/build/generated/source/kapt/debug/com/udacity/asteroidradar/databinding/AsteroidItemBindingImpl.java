@@ -13,10 +13,7 @@ public class AsteroidItemBindingImpl extends AsteroidItemBinding  {
     private static final android.util.SparseIntArray sViewsWithIds;
     static {
         sIncludes = null;
-        sViewsWithIds = new android.util.SparseIntArray();
-        sViewsWithIds.put(R.id.image_view, 1);
-        sViewsWithIds.put(R.id.asteroidName, 2);
-        sViewsWithIds.put(R.id.asteroidDate, 3);
+        sViewsWithIds = null;
     }
     // views
     @NonNull
@@ -35,6 +32,9 @@ public class AsteroidItemBindingImpl extends AsteroidItemBinding  {
             , (android.widget.TextView) bindings[2]
             , (android.widget.ImageView) bindings[1]
             );
+        this.asteroidDate.setTag(null);
+        this.asteroidName.setTag(null);
+        this.imageView.setTag(null);
         this.mboundView0 = (androidx.cardview.widget.CardView) bindings[0];
         this.mboundView0.setTag(null);
         setRootTag(root);
@@ -74,6 +74,11 @@ public class AsteroidItemBindingImpl extends AsteroidItemBinding  {
 
     public void setAsteroid(@Nullable com.udacity.asteroidradar.Asteroid Asteroid) {
         this.mAsteroid = Asteroid;
+        synchronized(this) {
+            mDirtyFlags |= 0x1L;
+        }
+        notifyPropertyChanged(BR.asteroid);
+        super.requestRebind();
     }
 
     @Override
@@ -90,7 +95,32 @@ public class AsteroidItemBindingImpl extends AsteroidItemBinding  {
             dirtyFlags = mDirtyFlags;
             mDirtyFlags = 0;
         }
+        com.udacity.asteroidradar.Asteroid asteroid = mAsteroid;
+        boolean asteroidPotentiallyHazardous = false;
+        java.lang.String asteroidCloseApproachDate = null;
+        java.lang.String asteroidCodename = null;
+
+        if ((dirtyFlags & 0x3L) != 0) {
+
+
+
+                if (asteroid != null) {
+                    // read asteroid.potentiallyHazardous
+                    asteroidPotentiallyHazardous = asteroid.isPotentiallyHazardous();
+                    // read asteroid.closeApproachDate
+                    asteroidCloseApproachDate = asteroid.getCloseApproachDate();
+                    // read asteroid.codename
+                    asteroidCodename = asteroid.getCodename();
+                }
+        }
         // batch finished
+        if ((dirtyFlags & 0x3L) != 0) {
+            // api target 1
+
+            androidx.databinding.adapters.TextViewBindingAdapter.setText(this.asteroidDate, asteroidCloseApproachDate);
+            androidx.databinding.adapters.TextViewBindingAdapter.setText(this.asteroidName, asteroidCodename);
+            com.udacity.asteroidradar.BindingAdaptersKt.bindAsteroidStatusImage(this.imageView, asteroidPotentiallyHazardous);
+        }
     }
     // Listener Stub Implementations
     // callback impls

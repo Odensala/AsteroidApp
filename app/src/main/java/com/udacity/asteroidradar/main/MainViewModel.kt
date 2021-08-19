@@ -1,6 +1,7 @@
 package com.udacity.asteroidradar.main
 
 import android.app.Application
+import android.util.Log
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
@@ -8,6 +9,7 @@ import androidx.lifecycle.viewModelScope
 import com.udacity.asteroidradar.Asteroid
 import com.udacity.asteroidradar.Constants
 import com.udacity.asteroidradar.PictureOfDay
+import com.udacity.asteroidradar.api.AsteroidFilter
 import com.udacity.asteroidradar.api.PictureOfDayApi
 import com.udacity.asteroidradar.repository.AsteroidRepository
 import database.getDatabase
@@ -21,15 +23,20 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     val dailyPicture: LiveData<PictureOfDay>
         get() = _dailyPicture
 
-    // LiveData for the asteroid
-    private val _asteroids =
-        MutableLiveData<List<Asteroid>>()
-    val asteroids: LiveData<List<Asteroid>>
-        get() = _asteroids
+    //LiveData for navigation
+    private val _navigateToSelectedAsteroid = MutableLiveData<Asteroid>()
+    val navigateToSelectedAsteroid: LiveData<Asteroid>
+        get() = _navigateToSelectedAsteroid
 
+    // Database reference
     private val database = getDatabase(application)
+
+    // Asteroid LiveData
     private val AsteroidRepository = AsteroidRepository(database)
     val asteroidsForFragment = AsteroidRepository.asteroids
+
+    // Filter LiveData
+    private val _asteroidFilter = MutableLiveData(AsteroidFilter.SHOW_SAVE)
 
     init {
         getPictureOfDayResponse()
@@ -50,5 +57,24 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
                 e.printStackTrace()
             }
         }
+    }
+
+    /**
+     * Takes an asteroid and assigns it to the value
+     */
+    fun displayAsteroidDetails(asteroid: Asteroid) {
+        _navigateToSelectedAsteroid.value = asteroid
+    }
+
+    fun displayAsteroidCompleted() {
+        _navigateToSelectedAsteroid.value = null
+    }
+
+    /**
+     * Updates filter according to enum parameters
+     */
+    fun updateFilter(filters: AsteroidFilter) {
+        _asteroidFilter.postValue(filters)
+        Log.i("MainViewModel", "updateFilter called")
     }
 }

@@ -33,8 +33,10 @@ fun parseAsteroidsJsonResult(jsonResult: JSONObject): ArrayList<Asteroid> {
             val isPotentiallyHazardous = asteroidJson
                 .getBoolean("is_potentially_hazardous_asteroid")
 
-            val asteroid = Asteroid(id, codename, formattedDate, absoluteMagnitude,
-                estimatedDiameter, relativeVelocity, distanceFromEarth, isPotentiallyHazardous)
+            val asteroid = Asteroid(
+                id, codename, formattedDate, absoluteMagnitude,
+                estimatedDiameter, relativeVelocity, distanceFromEarth, isPotentiallyHazardous
+            )
             asteroidList.add(asteroid)
         }
     }
@@ -54,4 +56,19 @@ private fun getNextSevenDaysFormattedDates(): ArrayList<String> {
     }
 
     return formattedDateList
+}
+
+fun getStartDateFormatted(): String {
+    val calendar = Calendar.getInstance()
+    val currentTime = calendar.time
+    val dateFormat = SimpleDateFormat(Constants.API_QUERY_DATE_FORMAT, Locale.getDefault())
+    return dateFormat.format(currentTime)
+}
+
+fun getEndDateFormatted(): String {
+    val calendar = Calendar.getInstance()
+    calendar.add(Calendar.DAY_OF_YEAR, 7)
+    val currentTime = calendar.time
+    val dateFormat = SimpleDateFormat(Constants.API_QUERY_DATE_FORMAT, Locale.getDefault())
+    return dateFormat.format(currentTime)
 }

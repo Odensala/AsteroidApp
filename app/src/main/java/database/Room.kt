@@ -9,11 +9,17 @@ import androidx.room.*
  */
 @Dao
 interface AsteroidDao {
-    // Need to add more querys here
-    @Query("select * from databaseasteroid")
-    fun getAsteroids(): LiveData<List<DatabaseAsteroid>>
 
-    // If the same asteroids are inserted then it will replace
+    @Query("select * from DatabaseAsteroid order by closeApproachDate desc")
+    fun getAllAsteroids(): LiveData<List<DatabaseAsteroid>>
+
+    @Query("select * from DatabaseAsteroid where closeApproachDate = :today")
+    fun getTodayAsteroids(today: String): LiveData<List<DatabaseAsteroid>>
+
+    @Query("select * from DatabaseAsteroid where closeApproachDate between :startDay and :endDay")
+    fun getWeekAsteroids(startDay: String, endDay: String): LiveData<List<DatabaseAsteroid>>
+
+    // If the same asteroids are inserted then they will be replaced
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     fun insertAll(vararg asteroids: DatabaseAsteroid)
 }
