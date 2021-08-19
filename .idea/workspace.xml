@@ -12,497 +12,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fb7cd23-0de9-4574-9d38-c2183b6033ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+H84BwVlCTvRDnbqRxFf79RwX6o=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+b7hSumfEEjlfn_53qclqvh0jnA=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/01mpaSsJbzn99vSpt8RZWb5F+Rs=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0QrvNLneZ++1quHc4e3pNJVufZ8=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0t0+e21g5yGiikUyDRXLi8X12w4=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/1qjO49dQ5SmLKFHhjBQhtoPvQ9Q=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2buqPHo_HLTWx_xk+srCEpwnPR4=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/39xCOJZ83s88woADLiltlPcbWJE=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3uZTJOC+2G1SY+gviUFaYlLTdEE=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/57WbJi5xjT96TZwxg_dzemZ+iGY=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/5iICXbZhd3z6yM8TzoC3KRlrzu4=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6Ma0f2hrc47EZ5hSP5VYd+20DKs=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/83rABftlR4z8T91KIJ4tNP_fRsY=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/84_BwSj5PqTH46yIvAsNiQEihoQ=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8I1+CmoHajkpP_W7vbkcqtBFRA8=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9FC7t_83NfKPNuV4o9ceb9_8LAY=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9zAWY25dy+zbdTbI5BtmH3SHRTg=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/AoUb7XhFp3S3YecAVK8nUCDwamo=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Aok79HvIMCs6YkkWGn3ZTZfVMR8=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BEF2PEeTeRlCKQYd7jj1ojzA7_o=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BWUS8Z9eXlenIG_hiWIpXxskTPA=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BrFra7mm2S_OmRPca+iFoArrPM4=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/E1FHOxnE8GHCtRO2HvPA4NWtiek=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/E5uU0BevUbxKrYIsJdvLeM1v7YA=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ED8YxU5ZF7jNv8kGDdMLghVP7YQ=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/EKUEXFIOlb8ZgG1kya0DXzZifXY=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/FvoZEQCZ9bcq0IkKR_jcC5_UeaY=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/KsGN0JBzY+7zi5lmtum1exNW5N0=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/MMzvxflSQvSprCA+lftrkBFAyeA=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/MQW5FMn76nHhHDdrN5sjWs75zs4=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/NrZrS2nnMKI0xnCZ8OWKmiipoec=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/QHxZvjPj+JFJueIanaRrAwa5B6s=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/R5t3bN9IC2WXmPMzfh1qCIa8CDc=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/S3YRgdpInQufXW95qLBeRP2BVxM=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SHtTu69xm6VZhAvm6u3sI+s9OSU=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SSUCzPSBcBeIQtagoxiYfnsY+6A=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SZ3Iym324oWBJSKzoL7VP0vmyDs=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Tv+XIsVPJIkNZnOoUJ5g1+tFB1g=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/UCu1oPIP5cMzegDX5nTVXKeEN0A=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/UQG0QC3QK5j_YZJD8ibyGKoN2YQ=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/VDJ4Gx2vvCAtXfnfk1HqXkZfwZk=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/VXE5nHlzhHVSBJZpNdWnlAHb5_Q=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/VxiQeVbrqMEqfLnWglz0BU2l0Pk=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/X8HnVYtjuYjNmBIQgJ1sM8e8RxU=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XM2jYZS3d1fCJqKit+HpMiKA1l8=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XRU1K8mnmoQYDHfYqFe3qs5jS4c=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Y+bnr5JWd69obDcvOE+CCNHK4OA=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ZuzIod48mk+jF6mKftcd0wWW2ho=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_WoU+mS+EYFRS0O+uk1ghmv4yhs=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/a7IDtDRforq5S7Q7cTlq2tawjbk=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/aSz+9R8P3Q6ZY1w3Si4GDQr3Hhg=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bPuahnlVsY1rhJN9RPcREVgMGIw=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bVpRtTBROQ7oAJWmhSDdud2spVs=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bnwZO5dL2xikFxiZ09ubMGBEnxM=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dWX1qrgNtz3XG4aO11JeFmyR6RE=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dbo979CiA1NMD_Wxspk+MJlpCZA=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dfw5WVwgKFQvk2s7TwEyJBshsrI=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ePgdISQEN5VMwb6v7RY1K3MI4W0=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/eQkHnrv4NJnwQukuxecztDEELUE=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/g8gmWYpn3dx7dHrMBGHrhwriByY=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/gWdb3xF3oCH47vBjRFcMZh6UZAA=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hOtDfdrpBE4pNFvd9tmlAkXU1iY=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ie_WwS0nguAe8Da927T4dFMPe1w=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/k334WZF5lowpDStQmqKBVzoqvkE=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/kHFHt1JCWF83RCDNBeX8LUZ_ATA=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/kWHqKDyW3v0bB5ZgvAEc2660+zQ=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/l9mB2Bcob7WeZXcH2MI4ek1jRcI=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/lpmEhG5Kp73q0JRdKtdSrGeX_OA=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ltcL_9Pih1z5wEI7TjERzE4qT9E=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/nOoW3qSlYYyLa6Ka6m8bXFwVsEY=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/oASs1i9YmRz009NzfF0_nDSVU9I=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ohPQCO6VL9aAAiYVMK7qHwH2NMw=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ov50W+2KCg5zmzTawUAv4yDqtuM=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/qX+tIZ7RW+OwwZ98B+c6BdrwKZY=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rC5fcZj0A5ZLDOlvxVgGU7UFUeQ=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rWJ++FORTUvmrOgiGJGwK7BMc18=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/s3uUER3NcpUVBfWxAh_r5dfJKU4=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/sODGzOH8m4oXbiqNz1Ay6IaSM58=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/t6k_v9ETc2PHMoII3AuyrA3NiCI=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/tAflKBAb_8SnQmGvx+Kg96tdI5c=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/v3zNKcKYqBKDjyapyFppvrcehAc=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/vlAswRgxgptX8kyTcv2S3A0eG94=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/vuJTiRlJ0Kzjd_hK3CucRcVbmvE=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/w03xNseDehFWFfwRdTRoTmq9tbA=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wxPhxNmYzzD2BBIdTM3KnL1IVOI=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wzQzJPc5bXmGwTzY9XrEerUxT9o=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zFcUwp4fNCxKx1Z_DVpHl68M_R8=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/androidx/databinding/DataBinderMapperImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/androidx/databinding/DataBindingComponent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/androidx/databinding/library/baseAdapters/BR.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/BR.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/BuildConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/DataBinderMapperImpl$InnerBrLookup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/DataBinderMapperImpl$InnerLayoutIdLookup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/DataBinderMapperImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/DataBindingInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/databinding/AsteroidItemBinding.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/databinding/AsteroidItemBindingImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/databinding/FragmentDetailBinding.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/databinding/FragmentDetailBindingImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/databinding/FragmentMainBinding.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/databinding/FragmentMainBindingImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/detail/DetailFragmentArgs$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/detail/DetailFragmentArgs$Builder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/detail/DetailFragmentArgs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/main/MainFragmentDirections$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/main/MainFragmentDirections$ActionShowDetail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/udacity/asteroidradar/main/MainFragmentDirections.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/database/AsteroidDao_Impl$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/database/AsteroidDao_Impl$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/database/AsteroidDao_Impl$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/database/AsteroidDao_Impl$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/database/AsteroidDao_Impl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/database/AsteroidDatabase_Impl$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/database/AsteroidDatabase_Impl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_java_res/debug/out.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/8901939b0990f1c0b401a1023edf0c60cefd4d7c153ec80862c2ab649493b7c6_0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/8901939b0990f1c0b401a1023edf0c60cefd4d7c153ec80862c2ab649493b7c6_1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/8901939b0990f1c0b401a1023edf0c60cefd4d7c153ec80862c2ab649493b7c6_2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/8901939b0990f1c0b401a1023edf0c60cefd4d7c153ec80862c2ab649493b7c6_3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/8901939b0990f1c0b401a1023edf0c60cefd4d7c153ec80862c2ab649493b7c6_4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/8901939b0990f1c0b401a1023edf0c60cefd4d7c153ec80862c2ab649493b7c6_5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/8901939b0990f1c0b401a1023edf0c60cefd4d7c153ec80862c2ab649493b7c6_6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/8901939b0990f1c0b401a1023edf0c60cefd4d7c153ec80862c2ab649493b7c6_7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/androidx/databinding/DataBinderMapperImpl.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/androidx/databinding/DataBindingComponent.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/androidx/databinding/library/baseAdapters/BR.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/Asteroid$Creator.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/Asteroid.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/AsteroidAdapter$AsteroidViewHolder.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/AsteroidAdapter$DiffCallback.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/AsteroidAdapter$OnClickListener.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/AsteroidAdapter$onBindViewHolder$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/AsteroidAdapter.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/BR.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/BindingAdaptersKt.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/BuildConfig.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/Constants.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/DataBinderMapperImpl$InnerBrLookup.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/DataBinderMapperImpl$InnerLayoutIdLookup.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/DataBinderMapperImpl.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/DataBindingInfo.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/MainActivity.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/MyApp$Companion.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/MyApp.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/PictureOfDay.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/api/AsteroidApi$retrofitService$2.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/api/AsteroidApi.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/api/AsteroidApiKt.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/api/AsteroidApiService.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/api/AsteroidFilter.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/api/NetworkUtilsKt.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/api/PictureOfDayApi$retrofitService$2.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/api/PictureOfDayApi.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/api/PictureOfDayApiService.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/databinding/AsteroidItemBinding.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/databinding/AsteroidItemBindingImpl.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/databinding/FragmentDetailBinding.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/databinding/FragmentDetailBindingImpl.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/databinding/FragmentMainBinding.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/databinding/FragmentMainBindingImpl.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/detail/DetailFragment$onCreateView$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/detail/DetailFragment.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/detail/DetailFragmentArgs$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/detail/DetailFragmentArgs$Builder.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/detail/DetailFragmentArgs.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/main/MainFragment$onCreateView$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/main/MainFragment$onCreateView$2.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/main/MainFragment$onCreateView$asteroidAdapter$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/main/MainFragment$viewModel$2.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/main/MainFragment.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/main/MainFragmentDirections$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/main/MainFragmentDirections$ActionShowDetail.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/main/MainFragmentDirections.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/main/MainViewModel$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/main/MainViewModel$getPictureOfDayResponse$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/main/MainViewModel.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/repository/AsteroidRepository$asteroids$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/repository/AsteroidRepository$getAsteroidSelection$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/repository/AsteroidRepository$getAsteroidSelection$2.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/repository/AsteroidRepository$getAsteroidSelection$3.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/repository/AsteroidRepository$refreshAsteroids$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/repository/AsteroidRepository$refreshAsteroids$2.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/repository/AsteroidRepository.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/database/AsteroidDao.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/database/AsteroidDao_Impl$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/database/AsteroidDao_Impl$2.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/database/AsteroidDao_Impl$3.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/database/AsteroidDao_Impl$4.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/database/AsteroidDao_Impl.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/database/AsteroidDatabase.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/database/AsteroidDatabase_Impl$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/database/AsteroidDatabase_Impl.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/database/DatabaseAsteroid.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/database/DatabaseEntitiesKt.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/database/RoomKt$getDatabase$1$1.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/database/RoomKt.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/constants.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/output-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/AsteroidAdapter$OnClickListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/MyApp$Companion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/MyApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/api/AsteroidFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/MyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/MyApp.kapt_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/AsteroidFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/AsteroidFilter.kapt_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/META-INF/app_debug.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/Asteroid$Creator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/Asteroid.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/AsteroidAdapter$AsteroidViewHolder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/AsteroidAdapter$DiffCallback.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/AsteroidAdapter$OnClickListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/AsteroidAdapter$onBindViewHolder$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/AsteroidAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/BindingAdaptersKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/Constants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/MainActivity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/MyApp$Companion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/MyApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/PictureOfDay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/api/AsteroidApi$retrofitService$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/api/AsteroidApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/api/AsteroidApiKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/api/AsteroidApiService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/api/AsteroidFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/api/NetworkUtilsKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/api/PictureOfDayApi$retrofitService$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/api/PictureOfDayApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/api/PictureOfDayApiService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/detail/DetailFragment$onCreateView$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/detail/DetailFragment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/main/MainFragment$onCreateView$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/main/MainFragment$onCreateView$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/main/MainFragment$onCreateView$asteroidAdapter$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/main/MainFragment$viewModel$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/main/MainFragment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/main/MainViewModel$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/main/MainViewModel$getPictureOfDayResponse$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/main/MainViewModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/repository/AsteroidRepository$asteroids$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/repository/AsteroidRepository$getAsteroidSelection$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/repository/AsteroidRepository$getAsteroidSelection$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/repository/AsteroidRepository$getAsteroidSelection$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/repository/AsteroidRepository$refreshAsteroids$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/repository/AsteroidRepository$refreshAsteroids$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/repository/AsteroidRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/database/AsteroidDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/database/AsteroidDatabase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/database/DatabaseAsteroid.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/database/DatabaseEntitiesKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/database/RoomKt$getDatabase$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/database/RoomKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/MyApp.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/udacity/asteroidradar/databinding/AsteroidItemBindingImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/udacity/asteroidradar/databinding/AsteroidItemBindingImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/database/AsteroidDao_Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/database/AsteroidDao_Impl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/bundle-manifest/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data_binding_layout_info_type_merge/debug/out/asteroid_item-layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data_binding_layout_info_type_merge/debug/out/asteroid_item-layout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/asteroid_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/asteroid_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_asteroid_item.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_asteroid_item.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_main_overflow_menu.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_main_overflow_menu.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/dirty-sources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/constants.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/constants.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/incApCache/debug/classpath-structure.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incApCache/debug/classpath-structure.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/AsteroidAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/AsteroidAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/Constants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/api/AsteroidApiService.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/api/AsteroidApiService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/api/NetworkUtilsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/api/NetworkUtilsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/main/MainFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/main/MainFragment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/main/MainViewModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/main/MainViewModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/repository/AsteroidRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/com/udacity/asteroidradar/repository/AsteroidRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/database/AsteroidDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incrementalData/debug/database/AsteroidDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/AsteroidAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/AsteroidAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/AsteroidAdapter.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/AsteroidAdapter.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/Constants.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/Constants.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/AsteroidApi.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/AsteroidApi.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/AsteroidApiKt.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/AsteroidApiKt.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/AsteroidApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/AsteroidApiService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/AsteroidApiService.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/AsteroidApiService.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/NetworkUtilsKt.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/NetworkUtilsKt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/NetworkUtilsKt.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/NetworkUtilsKt.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/PictureOfDayApi.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/PictureOfDayApi.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/PictureOfDayApiService.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/api/PictureOfDayApiService.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/main/MainFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/main/MainFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/main/MainFragment.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/main/MainFragment.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/main/MainViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/main/MainViewModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/main/MainViewModel.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/main/MainViewModel.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/repository/AsteroidRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/repository/AsteroidRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/repository/AsteroidRepository.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/repository/AsteroidRepository.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/database/AsteroidDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/database/AsteroidDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/database/AsteroidDao.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/database/AsteroidDao.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/database/AsteroidDatabase.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/database/AsteroidDatabase.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/database/RoomKt.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/database/RoomKt.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/AsteroidAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/AsteroidAdapter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/Constants.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/api/AsteroidApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/api/AsteroidApi.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/api/NetworkUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/api/NetworkUtils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/main/MainFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/main/MainFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/main/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/main/MainViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/repository/AsteroidRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/repository/AsteroidRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/database/Room.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/database/Room.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/asteroid_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/asteroid_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/main_overflow_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/main_overflow_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/MainFragment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/MainFragment.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/MainFragment.kapt_metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/MainFragment1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/app-debug.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/apt-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/build-history1.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/class-fq-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/class-fq-name-to-source.tab.values1.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/class-fq-name-to-source1.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/classpath-structure.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/file-to-id.tab.values1.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/file-to-id1.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/id-to-file.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/id-to-file.tab.keystream1.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/id-to-file.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/id-to-file.tab.values1.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/id-to-file.tab1.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/id-to-file.tab1.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/id-to-file.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/id-to-file1.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/id-to-file1.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/internal-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/internal-name-to-source.tab.values1.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/internal-name-to-source1.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/last-build1.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/lookups.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/lookups.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/lookups.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/lookups.tab.values1.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/lookups1.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/proto.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/proto.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/proto.tab.values1.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/proto1.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/source-to-classes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/source-to-classes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/source-to-classes.tab.values1.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/source-to-classes1.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/source-to-output.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/source-to-output.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/source-to-output.tab.values1.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/source-to-output1.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/subtypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/subtypes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/subtypes.tab.values1.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/subtypes1.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/supertypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/supertypes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/supertypes.tab.values1.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-08-19_14_01_[Default_Changelist]/supertypes1.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/udacity/asteroidradar/main/MainFragment$observeAsteroids$1.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/udacity/asteroidradar/main/MainFragment$observeAsteroids$1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -530,6 +119,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="KotlinCodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
@@ -679,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628168183115</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Second commit">
+      <created>1629373818218</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1629373818218</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -699,48 +296,52 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1057" y="491" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1623868977059" />
-    <state x="100" y="100" width="2360" height="1200" key="AVDManager" timestamp="1627594887437">
+    <state x="100" y="100" width="2360" height="1200" key="AVDManager" timestamp="1629374540500">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="100" y="100" width="2360" height="1200" key="AVDManager/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1627594887437" />
+    <state x="100" y="100" width="2360" height="1200" key="AVDManager/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1629374540500" />
     <state x="860" y="455" key="AndroidCreateResourceFileDialog" timestamp="1623866922128">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="860" y="455" key="AndroidCreateResourceFileDialog/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1623866922128" />
-    <state x="758" y="269" key="CommitChangelistDialog2" timestamp="1628168181402">
+    <state x="758" y="269" key="CommitChangelistDialog2" timestamp="1629373816095">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="758" y="269" key="CommitChangelistDialog2/-1200.-197.1200.1880/2560.187.1280.720/0.0.2560.1400@0.0.2560.1400" timestamp="1628043614062" />
-    <state x="758" y="269" key="CommitChangelistDialog2/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1628168181402" />
+    <state x="758" y="269" key="CommitChangelistDialog2/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1629373816095" />
     <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1626261879282">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1626261879282" />
-    <state width="2499" height="355" key="GridCell.Tab.0.bottom" timestamp="1629325702284">
+    <state width="2516" height="400" key="GridCell.Tab.0.bottom" timestamp="1629373957766">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2499" height="355" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1629325702284" />
-    <state width="2499" height="355" key="GridCell.Tab.0.center" timestamp="1629325702284">
+    <state width="2516" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1629373957766" />
+    <state width="2516" height="400" key="GridCell.Tab.0.center" timestamp="1629373957766">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2499" height="355" key="GridCell.Tab.0.center/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1629325702284" />
-    <state width="2499" height="355" key="GridCell.Tab.0.left" timestamp="1629325702283">
+    <state width="2516" height="400" key="GridCell.Tab.0.center/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1629373957766" />
+    <state width="2516" height="400" key="GridCell.Tab.0.left" timestamp="1629373957765">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2499" height="355" key="GridCell.Tab.0.left/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1629325702283" />
-    <state width="2499" height="355" key="GridCell.Tab.0.right" timestamp="1629325702284">
+    <state width="2516" height="400" key="GridCell.Tab.0.left/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1629373957765" />
+    <state width="2516" height="400" key="GridCell.Tab.0.right" timestamp="1629373957766">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2499" height="355" key="GridCell.Tab.0.right/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1629325702284" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1628099095384">
+    <state width="2516" height="400" key="GridCell.Tab.0.right/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1629373957766" />
+    <state x="918" y="461" key="MultipleFileMergeDialog" timestamp="1629374524368">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1628099095384" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1628168232942">
+    <state x="918" y="461" key="MultipleFileMergeDialog/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1629374524368" />
+    <state x="781" y="345" key="SettingsEditor" timestamp="1629373910184">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1629373910184" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1629374508530">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="872" y="433" key="Vcs.Push.Dialog.v2/-1200.-197.1200.1880/2560.187.1280.720/0.0.2560.1400@0.0.2560.1400" timestamp="1628040707935" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1628168232942" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.187.1280.720/-1200.-197.1200.1920@0.0.2560.1400" timestamp="1629374508530" />
     <state x="1096" y="478" key="chooseDestDirectoryDialog" timestamp="1626351642494">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

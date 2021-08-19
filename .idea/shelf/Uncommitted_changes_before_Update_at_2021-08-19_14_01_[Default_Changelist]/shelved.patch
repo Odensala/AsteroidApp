@@ -1,0 +1,75 @@
+Index: app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/main/MainFragment.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.udacity.asteroidradar.main;\r\n\r\nimport java.lang.System;\r\n\r\n@kotlin.Metadata(mv = {1, 1, 16}, bv = {1, 0, 3}, k = 1, d1 = {\"\\u0000H\\n\\u0002\\u0018\\u0002\\n\\u0002\\u0018\\u0002\\n\\u0002\\b\\u0002\\n\\u0002\\u0018\\u0002\\n\\u0002\\b\\u0005\\n\\u0002\\u0010\\u0002\\n\\u0000\\n\\u0002\\u0018\\u0002\\n\\u0000\\n\\u0002\\u0018\\u0002\\n\\u0000\\n\\u0002\\u0018\\u0002\\n\\u0002\\u0018\\u0002\\n\\u0000\\n\\u0002\\u0018\\u0002\\n\\u0000\\n\\u0002\\u0018\\u0002\\n\\u0000\\n\\u0002\\u0010\\u000b\\n\\u0000\\n\\u0002\\u0018\\u0002\\n\\u0000\\u0018\\u00002\\u00020\\u0001B\\u0005\\u00a2\\u0006\\u0002\\u0010\\u0002J\\u0018\\u0010\\t\\u001a\\u00020\\n2\\u0006\\u0010\\u000b\\u001a\\u00020\\f2\\u0006\\u0010\\r\\u001a\\u00020\\u000eH\\u0016J&\\u0010\\u000f\\u001a\\u0004\\u0018\\u00010\\u00102\\u0006\\u0010\\r\\u001a\\u00020\\u00112\\b\\u0010\\u0012\\u001a\\u0004\\u0018\\u00010\\u00132\\b\\u0010\\u0014\\u001a\\u0004\\u0018\\u00010\\u0015H\\u0016J\\u0010\\u0010\\u0016\\u001a\\u00020\\u00172\\u0006\\u0010\\u0018\\u001a\\u00020\\u0019H\\u0016R\\u001b\\u0010\\u0003\\u001a\\u00020\\u00048BX\\u0082\\u0084\\u0002\\u00a2\\u0006\\f\\n\\u0004\\b\\u0007\\u0010\\b\\u001a\\u0004\\b\\u0005\\u0010\\u0006\\u00a8\\u0006\\u001a\"}, d2 = {\"Lcom/udacity/asteroidradar/main/MainFragment;\", \"Landroidx/fragment/app/Fragment;\", \"()V\", \"viewModel\", \"Lcom/udacity/asteroidradar/main/MainViewModel;\", \"getViewModel\", \"()Lcom/udacity/asteroidradar/main/MainViewModel;\", \"viewModel$delegate\", \"Lkotlin/Lazy;\", \"onCreateOptionsMenu\", \"\", \"menu\", \"Landroid/view/Menu;\", \"inflater\", \"Landroid/view/MenuInflater;\", \"onCreateView\", \"Landroid/view/View;\", \"Landroid/view/LayoutInflater;\", \"container\", \"Landroid/view/ViewGroup;\", \"savedInstanceState\", \"Landroid/os/Bundle;\", \"onOptionsItemSelected\", \"\", \"item\", \"Landroid/view/MenuItem;\", \"app_debug\"})\r\npublic final class MainFragment extends androidx.fragment.app.Fragment {\r\n    private final kotlin.Lazy viewModel$delegate = null;\r\n    private java.util.HashMap _$_findViewCache;\r\n    \r\n    private final com.udacity.asteroidradar.main.MainViewModel getViewModel() {\r\n        return null;\r\n    }\r\n    \r\n    @org.jetbrains.annotations.Nullable()\r\n    @java.lang.Override()\r\n    public android.view.View onCreateView(@org.jetbrains.annotations.NotNull()\r\n    android.view.LayoutInflater inflater, @org.jetbrains.annotations.Nullable()\r\n    android.view.ViewGroup container, @org.jetbrains.annotations.Nullable()\r\n    android.os.Bundle savedInstanceState) {\r\n        return null;\r\n    }\r\n    \r\n    @java.lang.Override()\r\n    public void onCreateOptionsMenu(@org.jetbrains.annotations.NotNull()\r\n    android.view.Menu menu, @org.jetbrains.annotations.NotNull()\r\n    android.view.MenuInflater inflater) {\r\n    }\r\n    \r\n    /**\r\n     * Displays filtered result according to menu choice\r\n     */\r\n    @java.lang.Override()\r\n    public boolean onOptionsItemSelected(@org.jetbrains.annotations.NotNull()\r\n    android.view.MenuItem item) {\r\n        return false;\r\n    }\r\n    \r\n    public MainFragment() {\r\n        super();\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/main/MainFragment.java	(revision 9fd034cfb732213066cf277b320a7939f36afce9)
++++ app/build/tmp/kapt3/stubs/debug/com/udacity/asteroidradar/main/MainFragment.java	(date 1629373852005)
+@@ -2,7 +2,7 @@
+ 
+ import java.lang.System;
+ 
+-@kotlin.Metadata(mv = {1, 1, 16}, bv = {1, 0, 3}, k = 1, d1 = {"\u0000H\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\b\u0005\n\u0002\u0010\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u000b\n\u0000\n\u0002\u0018\u0002\n\u0000\u0018\u00002\u00020\u0001B\u0005\u00a2\u0006\u0002\u0010\u0002J\u0018\u0010\t\u001a\u00020\n2\u0006\u0010\u000b\u001a\u00020\f2\u0006\u0010\r\u001a\u00020\u000eH\u0016J&\u0010\u000f\u001a\u0004\u0018\u00010\u00102\u0006\u0010\r\u001a\u00020\u00112\b\u0010\u0012\u001a\u0004\u0018\u00010\u00132\b\u0010\u0014\u001a\u0004\u0018\u00010\u0015H\u0016J\u0010\u0010\u0016\u001a\u00020\u00172\u0006\u0010\u0018\u001a\u00020\u0019H\u0016R\u001b\u0010\u0003\u001a\u00020\u00048BX\u0082\u0084\u0002\u00a2\u0006\f\n\u0004\b\u0007\u0010\b\u001a\u0004\b\u0005\u0010\u0006\u00a8\u0006\u001a"}, d2 = {"Lcom/udacity/asteroidradar/main/MainFragment;", "Landroidx/fragment/app/Fragment;", "()V", "viewModel", "Lcom/udacity/asteroidradar/main/MainViewModel;", "getViewModel", "()Lcom/udacity/asteroidradar/main/MainViewModel;", "viewModel$delegate", "Lkotlin/Lazy;", "onCreateOptionsMenu", "", "menu", "Landroid/view/Menu;", "inflater", "Landroid/view/MenuInflater;", "onCreateView", "Landroid/view/View;", "Landroid/view/LayoutInflater;", "container", "Landroid/view/ViewGroup;", "savedInstanceState", "Landroid/os/Bundle;", "onOptionsItemSelected", "", "item", "Landroid/view/MenuItem;", "app_debug"})
++@kotlin.Metadata(mv = {1, 1, 16}, bv = {1, 0, 3}, k = 1, d1 = {"\u0000J\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\b\u0005\n\u0002\u0010\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u000b\n\u0000\n\u0002\u0018\u0002\n\u0000\u0018\u00002\u00020\u0001B\u0005\u00a2\u0006\u0002\u0010\u0002J\b\u0010\t\u001a\u00020\nH\u0002J\u0018\u0010\u000b\u001a\u00020\n2\u0006\u0010\f\u001a\u00020\r2\u0006\u0010\u000e\u001a\u00020\u000fH\u0016J&\u0010\u0010\u001a\u0004\u0018\u00010\u00112\u0006\u0010\u000e\u001a\u00020\u00122\b\u0010\u0013\u001a\u0004\u0018\u00010\u00142\b\u0010\u0015\u001a\u0004\u0018\u00010\u0016H\u0016J\u0010\u0010\u0017\u001a\u00020\u00182\u0006\u0010\u0019\u001a\u00020\u001aH\u0016R\u001b\u0010\u0003\u001a\u00020\u00048BX\u0082\u0084\u0002\u00a2\u0006\f\n\u0004\b\u0007\u0010\b\u001a\u0004\b\u0005\u0010\u0006\u00a8\u0006\u001b"}, d2 = {"Lcom/udacity/asteroidradar/main/MainFragment;", "Landroidx/fragment/app/Fragment;", "()V", "viewModel", "Lcom/udacity/asteroidradar/main/MainViewModel;", "getViewModel", "()Lcom/udacity/asteroidradar/main/MainViewModel;", "viewModel$delegate", "Lkotlin/Lazy;", "observeAsteroids", "", "onCreateOptionsMenu", "menu", "Landroid/view/Menu;", "inflater", "Landroid/view/MenuInflater;", "onCreateView", "Landroid/view/View;", "Landroid/view/LayoutInflater;", "container", "Landroid/view/ViewGroup;", "savedInstanceState", "Landroid/os/Bundle;", "onOptionsItemSelected", "", "item", "Landroid/view/MenuItem;", "app_debug"})
+ public final class MainFragment extends androidx.fragment.app.Fragment {
+     private final kotlin.Lazy viewModel$delegate = null;
+     private java.util.HashMap _$_findViewCache;
+@@ -35,6 +35,9 @@
+         return false;
+     }
+     
++    private final void observeAsteroids() {
++    }
++    
+     public MainFragment() {
+         super();
+     }
+Index: app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>15\r\n0
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab	(revision 9fd034cfb732213066cf277b320a7939f36afce9)
++++ app/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab	(date 1629373855856)
+@@ -1,2 +1,2 @@
+-15
+-0
+\ No newline at end of file
++16
++1
+\ No newline at end of file
+Index: app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/counters.tab
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>15\r\n0
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/counters.tab	(revision 9fd034cfb732213066cf277b320a7939f36afce9)
++++ app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/counters.tab	(date 1629373852069)
+@@ -1,2 +1,2 @@
+-15
+-0
+\ No newline at end of file
++16
++1
+\ No newline at end of file
+Index: app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#Thu Aug 19 00:39:23 CEST 2021\r\nbase.0=C\\:\\\\Users\\\\paulr\\\\Documents\\\\programming\\\\android\\\\nd940-android-kotlin-c2-starter-master\\\\starter\\\\app\\\\build\\\\intermediates\\\\dex\\\\debug\\\\mergeExtDexDebug\\\\classes.dex\r\npath.1=classes.dex\r\nrenamed.1=classes2.dex\r\npath.0=classes.dex\r\nrenamed.0=classes.dex\r\nbase.1=C\\:\\\\Users\\\\paulr\\\\Documents\\\\programming\\\\android\\\\nd940-android-kotlin-c2-starter-master\\\\starter\\\\app\\\\build\\\\intermediates\\\\dex\\\\debug\\\\mergeProjectDexDebug\\\\classes.dex\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt	(revision 9fd034cfb732213066cf277b320a7939f36afce9)
++++ app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt	(date 1629373857024)
+@@ -1,4 +1,4 @@
+-#Thu Aug 19 00:39:23 CEST 2021
++#Thu Aug 19 13:50:57 CEST 2021
+ base.0=C\:\\Users\\paulr\\Documents\\programming\\android\\nd940-android-kotlin-c2-starter-master\\starter\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+ path.1=classes.dex
+ renamed.1=classes2.dex
