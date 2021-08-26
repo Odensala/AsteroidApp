@@ -2,10 +2,11 @@ package com.udacity.asteroidradar.repository
 
 import android.util.Log
 import androidx.lifecycle.LiveData
+import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.Transformations
-import com.udacity.asteroidradar.Asteroid
 import com.udacity.asteroidradar.Constants
 import com.udacity.asteroidradar.api.*
+import com.udacity.asteroidradar.domain.Asteroid
 import database.AsteroidDatabase
 import database.asDatabaseModel
 import database.asDomainModel
@@ -18,11 +19,31 @@ import org.json.JSONObject
  */
 class AsteroidRepository(private val database: AsteroidDatabase) {
 
+    private var asteroidFilter = MutableLiveData(AsteroidFilter.SHOW_TODAY)
 
     // LiveData for asteroids displayed in RecyclerView
     val asteroids: LiveData<List<Asteroid>> =
-        Transformations.map(database.asteroidDao.getAllAsteroids()) {
-            it.asDomainModel()
+        Transformations.switchMap(asteroidFilter) { menuFilter ->
+            when (menuFilter) {
+                AsteroidFilter.SHOW_TODAY -> Transformations.map(
+                    database.asteroidDao.getTodayAsteroids(
+                        getStartDateFormatted()
+                    )
+                ) {
+                    it.asDomainModel()
+                }
+                AsteroidFilter.SHOW_WEEK -> Transformations.map(
+                    database.asteroidDao.getWeekAsteroids(
+                        getStartDateFormatted(),
+                        getEndDateFormatted()
+                    )
+                ) {
+                    it.asDomainModel()
+                }
+                else -> Transformations.map(database.asteroidDao.getAllAsteroids()) {
+                    it.asDomainModel()
+                }
+            }
         }
 
     suspend fun refreshAsteroids() {
@@ -43,30 +64,8 @@ class AsteroidRepository(private val database: AsteroidDatabase) {
         }
     }
 
-    /**
-     * Selects appropriate filter according to menu choice
-     */
-    fun getAsteroidSelection(filter: AsteroidFilter): LiveData<List<Asteroid>> {
-        return when (filter) {
-            (AsteroidFilter.SHOW_TODAY) -> Transformations.map(
-                database.asteroidDao.getTodayAsteroids(
-                    getStartDateFormatted()
-                )
-            ) {
-                it.asDomainModel()
-            }
-            (AsteroidFilter.SHOW_WEEK) -> Transformations.map(
-                database.asteroidDao.getWeekAsteroids(
-                    getStartDateFormatted(),
-                    getEndDateFormatted()
-                )
-            ) {
-                it.asDomainModel()
-            }
-            else -> Transformations.map(database.asteroidDao.getAllAsteroids()) {
-                it.asDomainModel()
-            }
-        }
+    fun getAsteroidsFiltered(filter: AsteroidFilter) {
+        asteroidFilter.value = filter
     }
 }
 

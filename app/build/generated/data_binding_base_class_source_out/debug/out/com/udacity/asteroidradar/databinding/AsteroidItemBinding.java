@@ -11,8 +11,8 @@ import androidx.annotation.Nullable;
 import androidx.databinding.Bindable;
 import androidx.databinding.DataBindingUtil;
 import androidx.databinding.ViewDataBinding;
-import com.udacity.asteroidradar.Asteroid;
 import com.udacity.asteroidradar.R;
+import com.udacity.asteroidradar.domain.Asteroid;
 import java.lang.Deprecated;
 import java.lang.Object;
 

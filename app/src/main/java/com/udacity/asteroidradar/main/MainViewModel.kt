@@ -6,11 +6,11 @@ import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
-import com.udacity.asteroidradar.Asteroid
 import com.udacity.asteroidradar.Constants
-import com.udacity.asteroidradar.PictureOfDay
 import com.udacity.asteroidradar.api.AsteroidFilter
 import com.udacity.asteroidradar.api.PictureOfDayApi
+import com.udacity.asteroidradar.domain.Asteroid
+import com.udacity.asteroidradar.domain.PictureOfDay
 import com.udacity.asteroidradar.repository.AsteroidRepository
 import database.getDatabase
 import kotlinx.coroutines.launch
@@ -34,9 +34,6 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     // Asteroid LiveData
     private val AsteroidRepository = AsteroidRepository(database)
     val asteroidsForFragment = AsteroidRepository.asteroids
-
-    // Filter LiveData
-    private val _asteroidFilter = MutableLiveData(AsteroidFilter.SHOW_SAVE)
 
     init {
         getPictureOfDayResponse()
@@ -73,8 +70,8 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     /**
      * Updates filter according to enum parameters
      */
-    fun updateFilter(filters: AsteroidFilter) {
-        _asteroidFilter.postValue(filters)
+    fun updateFilter(filter: AsteroidFilter) {
+        AsteroidRepository.getAsteroidsFiltered(filter)
         Log.i("MainViewModel", "updateFilter called")
     }
 }

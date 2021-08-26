@@ -14,12 +14,12 @@ public abstract interface AsteroidDao {
     public abstract androidx.lifecycle.LiveData<java.util.List<database.DatabaseAsteroid>> getAllAsteroids();
     
     @org.jetbrains.annotations.NotNull()
-    @androidx.room.Query(value = "select * from DatabaseAsteroid where closeApproachDate = :today")
+    @androidx.room.Query(value = "select * from DatabaseAsteroid where closeApproachDate = :today order by closeApproachDate desc")
     public abstract androidx.lifecycle.LiveData<java.util.List<database.DatabaseAsteroid>> getTodayAsteroids(@org.jetbrains.annotations.NotNull()
     java.lang.String today);
     
     @org.jetbrains.annotations.NotNull()
-    @androidx.room.Query(value = "select * from DatabaseAsteroid where closeApproachDate between :startDay and :endDay")
+    @androidx.room.Query(value = "select * from DatabaseAsteroid where closeApproachDate between :startDay and :endDay order by closeApproachDate desc")
     public abstract androidx.lifecycle.LiveData<java.util.List<database.DatabaseAsteroid>> getWeekAsteroids(@org.jetbrains.annotations.NotNull()
     java.lang.String startDay, @org.jetbrains.annotations.NotNull()
     java.lang.String endDay);

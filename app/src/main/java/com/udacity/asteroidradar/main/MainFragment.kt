@@ -58,24 +58,15 @@ class MainFragment : Fragment() {
      * Displays filtered result according to menu choice
      */
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        observeAsteroids()
         viewModel.updateFilter(
             when (item.itemId) {
                 R.id.show_today_menu -> AsteroidFilter.SHOW_TODAY
                 R.id.show_week_menu -> AsteroidFilter.SHOW_WEEK
                 else -> AsteroidFilter.SHOW_SAVE
             }
-
         )
         Log.i("MainFragment", "onOptionsItemSelected returned true")
         return true
-
-    }
-
-    private fun observeAsteroids() {
-        viewModel.asteroidsForFragment.observe(viewLifecycleOwner, Observer {
-            // Not entirely sure what to implement here
-        })
     }
 }
 

@@ -89,13 +89,13 @@ public class FragmentMainBindingImpl extends FragmentMainBinding  {
     protected boolean onFieldChange(int localFieldId, Object object, int fieldId) {
         switch (localFieldId) {
             case 0 :
-                return onChangeViewModelAsteroidsForFragment((androidx.lifecycle.LiveData<java.util.List<com.udacity.asteroidradar.Asteroid>>) object, fieldId);
+                return onChangeViewModelAsteroidsForFragment((androidx.lifecycle.LiveData<java.util.List<com.udacity.asteroidradar.domain.Asteroid>>) object, fieldId);
             case 1 :
-                return onChangeViewModelDailyPicture((androidx.lifecycle.LiveData<com.udacity.asteroidradar.PictureOfDay>) object, fieldId);
+                return onChangeViewModelDailyPicture((androidx.lifecycle.LiveData<com.udacity.asteroidradar.domain.PictureOfDay>) object, fieldId);
         }
         return false;
     }
-    private boolean onChangeViewModelAsteroidsForFragment(androidx.lifecycle.LiveData<java.util.List<com.udacity.asteroidradar.Asteroid>> ViewModelAsteroidsForFragment, int fieldId) {
+    private boolean onChangeViewModelAsteroidsForFragment(androidx.lifecycle.LiveData<java.util.List<com.udacity.asteroidradar.domain.Asteroid>> ViewModelAsteroidsForFragment, int fieldId) {
         if (fieldId == BR._all) {
             synchronized(this) {
                     mDirtyFlags |= 0x1L;
@@ -104,7 +104,7 @@ public class FragmentMainBindingImpl extends FragmentMainBinding  {
         }
         return false;
     }
-    private boolean onChangeViewModelDailyPicture(androidx.lifecycle.LiveData<com.udacity.asteroidradar.PictureOfDay> ViewModelDailyPicture, int fieldId) {
+    private boolean onChangeViewModelDailyPicture(androidx.lifecycle.LiveData<com.udacity.asteroidradar.domain.PictureOfDay> ViewModelDailyPicture, int fieldId) {
         if (fieldId == BR._all) {
             synchronized(this) {
                     mDirtyFlags |= 0x2L;
@@ -121,11 +121,12 @@ public class FragmentMainBindingImpl extends FragmentMainBinding  {
             dirtyFlags = mDirtyFlags;
             mDirtyFlags = 0;
         }
-        java.util.List<com.udacity.asteroidradar.Asteroid> viewModelAsteroidsForFragmentGetValue = null;
+        java.lang.String viewModelDailyPictureTitle = null;
+        java.util.List<com.udacity.asteroidradar.domain.Asteroid> viewModelAsteroidsForFragmentGetValue = null;
         com.udacity.asteroidradar.main.MainViewModel viewModel = mViewModel;
-        androidx.lifecycle.LiveData<java.util.List<com.udacity.asteroidradar.Asteroid>> viewModelAsteroidsForFragment = null;
-        androidx.lifecycle.LiveData<com.udacity.asteroidradar.PictureOfDay> viewModelDailyPicture = null;
-        com.udacity.asteroidradar.PictureOfDay viewModelDailyPictureGetValue = null;
+        androidx.lifecycle.LiveData<java.util.List<com.udacity.asteroidradar.domain.Asteroid>> viewModelAsteroidsForFragment = null;
+        androidx.lifecycle.LiveData<com.udacity.asteroidradar.domain.PictureOfDay> viewModelDailyPicture = null;
+        com.udacity.asteroidradar.domain.PictureOfDay viewModelDailyPictureGetValue = null;
 
         if ((dirtyFlags & 0xfL) != 0) {
 
@@ -157,6 +158,12 @@ public class FragmentMainBindingImpl extends FragmentMainBinding  {
                         // read viewModel.dailyPicture.getValue()
                         viewModelDailyPictureGetValue = viewModelDailyPicture.getValue();
                     }
+
+
+                    if (viewModelDailyPictureGetValue != null) {
+                        // read viewModel.dailyPicture.getValue().title
+                        viewModelDailyPictureTitle = viewModelDailyPictureGetValue.getTitle();
+                    }
             }
         }
         // batch finished
@@ -164,6 +171,11 @@ public class FragmentMainBindingImpl extends FragmentMainBinding  {
             // api target 1
 
             com.udacity.asteroidradar.BindingAdaptersKt.bindImage(this.activityMainImageOfTheDay, viewModelDailyPictureGetValue);
+            // api target 4
+            if(getBuildSdkInt() >= 4) {
+
+                this.activityMainImageOfTheDay.setContentDescription(viewModelDailyPictureTitle);
+            }
         }
         if ((dirtyFlags & 0xdL) != 0) {
             // api target 1

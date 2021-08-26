@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.os.Parcelable;
 import androidx.annotation.NonNull;
 import androidx.navigation.NavArgs;
-import com.udacity.asteroidradar.Asteroid;
+import com.udacity.asteroidradar.domain.Asteroid;
 import java.io.Serializable;
 import java.lang.IllegalArgumentException;
 import java.lang.Object;

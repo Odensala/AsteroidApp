@@ -8,11 +8,13 @@ import androidx.room.RoomSQLiteQuery;
 import androidx.room.util.CursorUtil;
 import androidx.room.util.DBUtil;
 import androidx.sqlite.db.SupportSQLiteStatement;
+import java.lang.Class;
 import java.lang.Exception;
 import java.lang.Override;
 import java.lang.String;
 import java.lang.SuppressWarnings;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.concurrent.Callable;
 
@@ -89,9 +91,17 @@ public final class AsteroidDao_Impl implements AsteroidDao {
             final long _tmpId;
             _tmpId = _cursor.getLong(_cursorIndexOfId);
             final String _tmpCodename;
-            _tmpCodename = _cursor.getString(_cursorIndexOfCodename);
+            if (_cursor.isNull(_cursorIndexOfCodename)) {
+              _tmpCodename = null;
+            } else {
+              _tmpCodename = _cursor.getString(_cursorIndexOfCodename);
+            }
             final String _tmpCloseApproachDate;
-            _tmpCloseApproachDate = _cursor.getString(_cursorIndexOfCloseApproachDate);
+            if (_cursor.isNull(_cursorIndexOfCloseApproachDate)) {
+              _tmpCloseApproachDate = null;
+            } else {
+              _tmpCloseApproachDate = _cursor.getString(_cursorIndexOfCloseApproachDate);
+            }
             final double _tmpAbsoluteMagnitude;
             _tmpAbsoluteMagnitude = _cursor.getDouble(_cursorIndexOfAbsoluteMagnitude);
             final double _tmpEstimatedDiameter;
@@ -122,7 +132,7 @@ public final class AsteroidDao_Impl implements AsteroidDao {
 
   @Override
   public LiveData<List<DatabaseAsteroid>> getTodayAsteroids(final String today) {
-    final String _sql = "select * from DatabaseAsteroid where closeApproachDate = ?";
+    final String _sql = "select * from DatabaseAsteroid where closeApproachDate = ? order by closeApproachDate desc";
     final RoomSQLiteQuery _statement = RoomSQLiteQuery.acquire(_sql, 1);
     int _argIndex = 1;
     if (today == null) {
@@ -149,9 +159,17 @@ public final class AsteroidDao_Impl implements AsteroidDao {
             final long _tmpId;
             _tmpId = _cursor.getLong(_cursorIndexOfId);
             final String _tmpCodename;
-            _tmpCodename = _cursor.getString(_cursorIndexOfCodename);
+            if (_cursor.isNull(_cursorIndexOfCodename)) {
+              _tmpCodename = null;
+            } else {
+              _tmpCodename = _cursor.getString(_cursorIndexOfCodename);
+            }
             final String _tmpCloseApproachDate;
-            _tmpCloseApproachDate = _cursor.getString(_cursorIndexOfCloseApproachDate);
+            if (_cursor.isNull(_cursorIndexOfCloseApproachDate)) {
+              _tmpCloseApproachDate = null;
+            } else {
+              _tmpCloseApproachDate = _cursor.getString(_cursorIndexOfCloseApproachDate);
+            }
             final double _tmpAbsoluteMagnitude;
             _tmpAbsoluteMagnitude = _cursor.getDouble(_cursorIndexOfAbsoluteMagnitude);
             final double _tmpEstimatedDiameter;
@@ -183,7 +201,7 @@ public final class AsteroidDao_Impl implements AsteroidDao {
   @Override
   public LiveData<List<DatabaseAsteroid>> getWeekAsteroids(final String startDay,
       final String endDay) {
-    final String _sql = "select * from DatabaseAsteroid where closeApproachDate between ? and ?";
+    final String _sql = "select * from DatabaseAsteroid where closeApproachDate between ? and ? order by closeApproachDate desc";
     final RoomSQLiteQuery _statement = RoomSQLiteQuery.acquire(_sql, 2);
     int _argIndex = 1;
     if (startDay == null) {
@@ -216,9 +234,17 @@ public final class AsteroidDao_Impl implements AsteroidDao {
             final long _tmpId;
             _tmpId = _cursor.getLong(_cursorIndexOfId);
             final String _tmpCodename;
-            _tmpCodename = _cursor.getString(_cursorIndexOfCodename);
+            if (_cursor.isNull(_cursorIndexOfCodename)) {
+              _tmpCodename = null;
+            } else {
+              _tmpCodename = _cursor.getString(_cursorIndexOfCodename);
+            }
             final String _tmpCloseApproachDate;
-            _tmpCloseApproachDate = _cursor.getString(_cursorIndexOfCloseApproachDate);
+            if (_cursor.isNull(_cursorIndexOfCloseApproachDate)) {
+              _tmpCloseApproachDate = null;
+            } else {
+              _tmpCloseApproachDate = _cursor.getString(_cursorIndexOfCloseApproachDate);
+            }
             final double _tmpAbsoluteMagnitude;
             _tmpAbsoluteMagnitude = _cursor.getDouble(_cursorIndexOfAbsoluteMagnitude);
             final double _tmpEstimatedDiameter;
@@ -245,5 +271,9 @@ public final class AsteroidDao_Impl implements AsteroidDao {
         _statement.release();
       }
     });
+  }
+
+  public static List<Class<?>> getRequiredConverters() {
+    return Collections.emptyList();
   }
 }

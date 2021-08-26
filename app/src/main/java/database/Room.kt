@@ -13,10 +13,10 @@ interface AsteroidDao {
     @Query("select * from DatabaseAsteroid order by closeApproachDate desc")
     fun getAllAsteroids(): LiveData<List<DatabaseAsteroid>>
 
-    @Query("select * from DatabaseAsteroid where closeApproachDate = :today")
+    @Query("select * from DatabaseAsteroid where closeApproachDate = :today order by closeApproachDate desc")
     fun getTodayAsteroids(today: String): LiveData<List<DatabaseAsteroid>>
 
-    @Query("select * from DatabaseAsteroid where closeApproachDate between :startDay and :endDay")
+    @Query("select * from DatabaseAsteroid where closeApproachDate between :startDay and :endDay order by closeApproachDate desc")
     fun getWeekAsteroids(startDay: String, endDay: String): LiveData<List<DatabaseAsteroid>>
 
     // If the same asteroids are inserted then they will be replaced

@@ -5,6 +5,8 @@ import android.widget.TextView
 import androidx.databinding.BindingAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.squareup.picasso.Picasso
+import com.udacity.asteroidradar.domain.Asteroid
+import com.udacity.asteroidradar.domain.PictureOfDay
 
 @BindingAdapter("statusIcon")
 fun bindAsteroidStatusImage(imageView: ImageView, isHazardous: Boolean) {
@@ -19,10 +21,21 @@ fun bindAsteroidStatusImage(imageView: ImageView, isHazardous: Boolean) {
 fun bindDetailsStatusImage(imageView: ImageView, isHazardous: Boolean) {
     if (isHazardous) {
         imageView.setImageResource(R.drawable.asteroid_hazardous)
+        "Potentially hazardous asteroid image"
     } else {
         imageView.setImageResource(R.drawable.asteroid_safe)
+        "No hazardous asteroid image"
     }
 }
+
+/**@BindingAdapter("asteroidContentDescription")
+fun bindAsteroidContentDescription(imageView: ImageView, isHazardous: Boolean) {
+    if(isHazardous) {
+        imageView.contentDescription = imageView.context.getString(R.string.potentially_hazardous_asteroid_image)
+    } else {
+        imageView.contentDescription = imageView.context.getString(R.string.not_hazardous_asteroid_image)
+    }
+}*/
 
 @BindingAdapter("astronomicalUnitText")
 fun bindTextViewToAstronomicalUnit(textView: TextView, number: Double) {

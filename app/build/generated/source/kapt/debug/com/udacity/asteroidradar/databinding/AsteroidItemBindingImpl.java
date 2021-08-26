@@ -64,7 +64,7 @@ public class AsteroidItemBindingImpl extends AsteroidItemBinding  {
     public boolean setVariable(int variableId, @Nullable Object variable)  {
         boolean variableSet = true;
         if (BR.asteroid == variableId) {
-            setAsteroid((com.udacity.asteroidradar.Asteroid) variable);
+            setAsteroid((com.udacity.asteroidradar.domain.Asteroid) variable);
         }
         else {
             variableSet = false;
@@ -72,7 +72,7 @@ public class AsteroidItemBindingImpl extends AsteroidItemBinding  {
             return variableSet;
     }
 
-    public void setAsteroid(@Nullable com.udacity.asteroidradar.Asteroid Asteroid) {
+    public void setAsteroid(@Nullable com.udacity.asteroidradar.domain.Asteroid Asteroid) {
         this.mAsteroid = Asteroid;
         synchronized(this) {
             mDirtyFlags |= 0x1L;
@@ -95,7 +95,7 @@ public class AsteroidItemBindingImpl extends AsteroidItemBinding  {
             dirtyFlags = mDirtyFlags;
             mDirtyFlags = 0;
         }
-        com.udacity.asteroidradar.Asteroid asteroid = mAsteroid;
+        com.udacity.asteroidradar.domain.Asteroid asteroid = mAsteroid;
         boolean asteroidPotentiallyHazardous = false;
         java.lang.String asteroidCloseApproachDate = null;
         java.lang.String asteroidCodename = null;
