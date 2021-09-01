@@ -4,7 +4,7 @@ import android.content.Context
 import androidx.work.CoroutineWorker
 import androidx.work.WorkerParameters
 import com.udacity.asteroidradar.repository.AsteroidRepository
-import database.getDatabase
+import com.udacity.asteroidradar.database.getDatabase
 import retrofit2.HttpException
 
 /**

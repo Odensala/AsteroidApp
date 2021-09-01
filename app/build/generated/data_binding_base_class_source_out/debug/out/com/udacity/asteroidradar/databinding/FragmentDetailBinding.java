@@ -12,6 +12,7 @@ import androidx.databinding.Bindable;
 import androidx.databinding.DataBindingUtil;
 import androidx.databinding.ViewDataBinding;
 import com.udacity.asteroidradar.R;
+import com.udacity.asteroidradar.detail.DetailViewModel;
 import com.udacity.asteroidradar.domain.Asteroid;
 import java.lang.Deprecated;
 import java.lang.Object;
@@ -41,6 +42,9 @@ public abstract class FragmentDetailBinding extends ViewDataBinding {
   @Bindable
   protected Asteroid mAsteroid;
 
+  @Bindable
+  protected DetailViewModel mViewModel;
+
   protected FragmentDetailBinding(Object _bindingComponent, View _root, int _localFieldCount,
       TextView absoluteMagnitude, ImageView activityMainImageOfTheDay, TextView closeApproachDate,
       TextView distanceFromEarth, TextView estimatedDiameter, ImageView helpButton,
@@ -60,6 +64,13 @@ public abstract class FragmentDetailBinding extends ViewDataBinding {
   @Nullable
   public Asteroid getAsteroid() {
     return mAsteroid;
+  }
+
+  public abstract void setViewModel(@Nullable DetailViewModel viewModel);
+
+  @Nullable
+  public DetailViewModel getViewModel() {
+    return mViewModel;
   }
 
   @NonNull

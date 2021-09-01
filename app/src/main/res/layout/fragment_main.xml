@@ -8,7 +8,6 @@
         <variable
             name="viewModel"
             type="com.udacity.asteroidradar.main.MainViewModel" />
-
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -29,9 +28,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:adjustViewBounds="true"
+                android:contentDescription="@{viewModel.dailyPicture.title}"
                 android:scaleType="centerCrop"
                 app:imageUrl="@{viewModel.dailyPicture}"
-                android:contentDescription="@{viewModel.dailyPicture.title}"
                 app:srcCompat="@drawable/placeholder_picture_of_day" />
 
             <TextView
@@ -53,6 +52,7 @@
             android:layout_height="0dp"
             android:clipToPadding="false"
             android:padding="4dp"
+            app:asteroidItem="@{viewModel.asteroidsForFragment}"
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
@@ -60,8 +60,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/activity_main_image_of_the_day_layout"
             app:layout_constraintVertical_bias="0.0"
-            tools:listitem="@layout/asteroid_item"
-            app:asteroidItem="@{viewModel.asteroidsForFragment}"/>
+            tools:listitem="@layout/asteroid_item" />
 
         <ProgressBar
             android:id="@+id/status_loading_wheel"

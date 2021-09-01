@@ -168,14 +168,14 @@ public class FragmentMainBindingImpl extends FragmentMainBinding  {
         }
         // batch finished
         if ((dirtyFlags & 0xeL) != 0) {
-            // api target 1
-
-            com.udacity.asteroidradar.BindingAdaptersKt.bindImage(this.activityMainImageOfTheDay, viewModelDailyPictureGetValue);
             // api target 4
             if(getBuildSdkInt() >= 4) {
 
                 this.activityMainImageOfTheDay.setContentDescription(viewModelDailyPictureTitle);
             }
+            // api target 1
+
+            com.udacity.asteroidradar.BindingAdaptersKt.bindImage(this.activityMainImageOfTheDay, viewModelDailyPictureGetValue);
         }
         if ((dirtyFlags & 0xdL) != 0) {
             // api target 1
