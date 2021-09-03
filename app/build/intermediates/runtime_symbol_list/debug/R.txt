@@ -1717,8 +1717,9 @@ int string relative_velocity_title 0x7f0f003a
 int string saved_asteroids 0x7f0f003b
 int string search_menu_title 0x7f0f003c
 int string status_bar_notification_info_overflow 0x7f0f003d
-int string this_is_nasa_s_picture_of_day_showing_nothing_yet 0x7f0f003e
-int string today_asteroids 0x7f0f003f
+int string status_icon 0x7f0f003e
+int string this_is_nasa_s_picture_of_day_showing_nothing_yet 0x7f0f003f
+int string today_asteroids 0x7f0f0040
 int style AlertDialog_AppCompat 0x7f100000
 int style AlertDialog_AppCompat_Light 0x7f100001
 int style Animation_AppCompat_Dialog 0x7f100002

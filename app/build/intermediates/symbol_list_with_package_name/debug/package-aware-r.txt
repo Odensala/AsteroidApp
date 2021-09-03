@@ -1718,6 +1718,7 @@ string relative_velocity_title
 string saved_asteroids
 string search_menu_title
 string status_bar_notification_info_overflow
+string status_icon
 string this_is_nasa_s_picture_of_day_showing_nothing_yet
 string today_asteroids
 style AlertDialog_AppCompat
