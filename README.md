@@ -1,5 +1,5 @@
 # Asteroid App
-Keep track of asteroids with the latest information from NASA.
+Keep track of asteroids with the latest information from NASA, built with MVVM.
 # Features
 - Discover new asteroids
 - Explore previous asteroids
